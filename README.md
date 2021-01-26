@@ -1,2 +1,0 @@
-# Python
-Small python applications
